@@ -1,0 +1,117 @@
+2022-11-19 01:28:26,425 ERROR __main__ Incorrect Input
+2022-11-19 01:28:26,427 ERROR __main__ Incorrect Input
+2022-11-19 01:28:27,693 ERROR __main__ Incorrect Input
+2022-11-19 01:28:27,694 ERROR __main__ Incorrect Input
+2022-11-19 01:28:29,288 ERROR __main__ Incorrect Input
+2022-11-19 01:28:29,289 ERROR __main__ Incorrect Input
+2022-11-19 01:29:31,490 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 32, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 32, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgjgf'
+2022-11-19 01:29:31,492 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 159, in solve_third_task
+    num = int(num_edit.text())
+ValueError: invalid literal for int() with base 10: ''
+2022-11-19 01:29:33,114 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 32, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 32, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'bvmbm'
+2022-11-19 01:29:33,116 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 159, in solve_third_task
+    num = int(num_edit.text())
+ValueError: invalid literal for int() with base 10: ''
+2022-11-19 01:35:51,035 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 29, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 29, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgj'
+2022-11-19 01:35:53,794 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 29, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 29, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgj'
+2022-11-19 01:37:54,254 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgj'
+2022-11-19 01:37:57,937 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'bvn'
+2022-11-19 01:40:15,610 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgj'
+2022-11-19 01:40:18,828 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgj'
+2022-11-19 01:40:21,670 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgjgfj'
+2022-11-19 01:40:30,276 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgjgfj'
+2022-11-19 01:40:31,061 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'fgjgfj'
+2022-11-19 01:40:34,933 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'vb,,v'
+2022-11-19 01:40:34,935 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 159, in solve_third_task
+    num = int(num_edit.text())
+ValueError: invalid literal for int() with base 10: 'bn,nb,'
+2022-11-19 01:40:49,079 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in get_arr
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 30, in <listcomp>
+    arr = [ int(arrays_table.item(0, column).text()) for column in range(arrays_table.columnCount()) if int(arrays_table.item(0, column).text())]
+ValueError: invalid literal for int() with base 10: 'vb,,v'
+2022-11-19 01:40:49,081 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 159, in solve_third_task
+    num = int(num_edit.text())
+ValueError: invalid literal for int() with base 10: 'bn,nb,'
