@@ -1,7 +1,10 @@
+
+from my_sorting import *
+
 import logging
 import traceback
 
-logging.basicConfig(filename='Logs.log', level=logging.DEBUG, 
+logging.basicConfig(filename='Resourses\\Logs.log', level=logging.DEBUG, 
                     format='%(asctime)s %(levelname)s %(name)s %(message)s')
 logger=logging.getLogger(__name__)
 
@@ -17,6 +20,7 @@ QPushButton, QTableWidget, QWidget, QRadioButton, QTableWidgetItem)
 from PyQt5.QtGui import QIcon
 
 
+    
 # - - - - - - - - - - - - - - LOGGING - - - - - - - - - - - - - -  # 
 
 def show_last_log():
@@ -171,6 +175,24 @@ def solve_third_task(arr):
 
 # - - - - - - - - - - - - - - - MAIN - - - - - - - - - - - - - - - # 
 
+example_1 = random.random_integers(1, 25, 1000)
+example_2 = example_1
+example_3 = example_2
+
+start = time.perf_counter()
+bubble_sort(example_1)
+print("Bubble:     " + str(time.perf_counter() - start))
+
+start = time.perf_counter()
+merge_sort(example_2)
+print("Merge:      " + str(time.perf_counter() - start))
+
+start = time.perf_counter()
+quick_sort(example_3)
+print("Quicksort:  " + str(time.perf_counter() - start))
+
+
+exit()
 app = QApplication([])
 app.setApplicationName("Lab02 (3rd year)")
 app.setWindowIcon(QIcon('C:\\Users\\asus\\Desktop\\Projects\\SUAI\\Labs\\3-ий курс\\C++\\Lab02 Python\\plex.jpg'))

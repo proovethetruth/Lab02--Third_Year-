@@ -115,3 +115,8 @@ Traceback (most recent call last):
   File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\C++\Lab02 Python\main.py", line 159, in solve_third_task
     num = int(num_edit.text())
 ValueError: invalid literal for int() with base 10: 'bn,nb,'
+2022-11-19 20:26:49,754 ERROR __main__ Incorrect Input
+Traceback (most recent call last):
+  File "c:\Users\asus\Desktop\Projects\SUAI\Labs\3-ий курс\Lab02 Python\main.py", line 45, in resize
+    int(len_edit.text())
+ValueError: invalid literal for int() with base 10: 'sdgsdg'
